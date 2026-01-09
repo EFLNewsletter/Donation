@@ -9,11 +9,11 @@
           <td width="6" style="background:#b30000;">&nbsp;</td>
 
           <!-- FAST PRACTICAL CHANGE: more padding for mobile readability -->
-          <td style="padding:20px 18px 22px 18px;">
+          <td style="padding:22px 20px 24px 20px;">
 
-            <div style="border-top:1px solid #000000;margin-bottom:12px;"></div>
+            <div style="border-top:1px solid #000000;margin-bottom:14px;"></div>
 
-            <div style="font-family:Georgia,serif;font-size:20px;font-weight:bold;text-align:center;margin-bottom:12px;">
+            <div style="font-family:Georgia,serif;font-size:22px;font-weight:bold;text-align:center;margin-bottom:14px;">
               Equipped for Life Men’s Ministry
             </div>
 
@@ -34,28 +34,28 @@
                       <td>
                   <!--<![endif]-->
 
-                  <!-- FAST PRACTICAL CHANGE: body text size + line-height for older readers -->
-                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.75;color:#4a4a4a;">
+                  <!-- UPDATED: body text size + line-height for older readers -->
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.75;color:#4a4a4a;">
 
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
                       <tr>
-                        <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
                       </tr>
                     </table>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       <strong>Equipped for Life Men’s Ministry (EFL)</strong> exists to help men grow in their relationship
                       with Jesus Christ through Bible study, fellowship, and service—strengthening families and communities
                       along the way. Since launching in 2017, EFL has become a place where men are discipled, supported,
                       and equipped to live out their faith.
                     </p>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       See the mission behind EFL and our plans for 2026: 👇 <strong>EFL Fundraising Video</strong>
                     </p>
 
                     <!-- Video Section: Image + Button aligned -->
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 18px auto;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 20px auto;">
                       <tr>
                         <td align="center">
 
@@ -64,29 +64,29 @@
                             <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/d1af7ec7-1f4f-07fd-0a94-3f489ac49845.png" alt="EFL Fundraising Video" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:10px;">
                           </a>
 
-                          <!-- Spacer (Outlook-safe: table, not div) -->
+                          <!-- Spacer (Outlook-safe) -->
                           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                            <tr><td height="10" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+                            <tr><td height="12" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                           </table>
 
-                          <!-- FAST PRACTICAL CHANGE: larger button text/height -->
+                          <!-- UPDATED: larger button text/height -->
                           <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
                             <tr>
                               <td align="center">
                                 <!--[if mso]>
                                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
                                   href="https://www.youtube.com/watch?v=uMW2HYmqNHM"
-                                  style="height:48px;v-text-anchor:middle;width:220px;"
+                                  style="height:56px;v-text-anchor:middle;width:260px;"
                                   arcsize="12%" stroke="f" fillcolor="#b30000">
                                   <w:anchorlock/>
-                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;">
+                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
                                     WATCH VIDEO
                                   </center>
                                 </v:roundrect>
                                 <![endif]-->
 
                                 <!--[if !mso]><!-- -->
-                                <a href="https://www.youtube.com/watch?v=uMW2HYmqNHM" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:48px;text-decoration:none;padding:0 20px;border-radius:6px;">
+                                <a href="https://www.youtube.com/watch?v=uMW2HYmqNHM" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:56px;text-decoration:none;padding:0 24px;border-radius:6px;">
                                   WATCH VIDEO
                                 </a>
                                 <!--<![endif]-->
@@ -98,14 +98,14 @@
                       </tr>
                     </table>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       <strong>By God’s grace,</strong> EFL has hosted <strong>1,024 Bible studies,</strong> <strong>10 Family Nights,</strong> <strong>2 Retreats,</strong>
                       and <strong>8 Baptisms,</strong> impacting <strong>610 men,</strong> sustaining <strong>141 active members,</strong> and raising <strong>$374,800</strong> to serve men,
                       families, and ministries through discipleship, outreach, and direct financial assistance.
                       As we look ahead to 2026, our primary focus is <strong>Equipped for Life’s Benevolence Fund.</strong>
                     </p>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       This fund is designed to be a <strong>safety net for Christian men facing hardship.</strong> Our heart is to operate
                       as a the Lord's Bank whose lending decisions are based not only on a man’s ability to repay, but equally on his
                       <strong>faith, character, and commitment to walk with Christ.</strong>
@@ -114,7 +114,7 @@
                     <!-- Spacer ABOVE divider (Outlook-safe) -->
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
                       <tr>
-                        <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
                       </tr>
                     </table>
 
@@ -128,51 +128,50 @@
                     <!-- Spacer BELOW divider (Outlook-safe) -->
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
                       <tr>
-                        <td height="20" style="font-size:0;line-height:0;">&nbsp;</td>
+                        <td height="22" style="font-size:0;line-height:0;">&nbsp;</td>
                       </tr>
                     </table>
 
-                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.4;font-weight:bold;margin:0;padding:0;">
+                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.4;font-weight:bold;margin:0;padding:0;">
                       The Benevolence Fund supports the following ministry goals:
                     </div>
 
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
                       <tr>
-                        <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
                       </tr>
                     </table>
 
-                    <!-- FAST PRACTICAL CHANGE: keep list readable at 16px; add slight spacing -->
-                    <ul style="padding-left:18px;margin:0;font-size:16px;line-height:1.75;">
-                      <li style="margin-bottom:12px;">
+                    <ul style="padding-left:18px;margin:0;font-size:20px;line-height:1.75;">
+                      <li style="margin-bottom:14px;">
                         <strong>Basic Needs</strong> Rent, food, utilities, diapers, and essential living expenses.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $100,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>Micro Loans</strong> Business start-ups, debt consolidation, and personal loans.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $50,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>Ministry Expenses</strong> Core operating costs stewarded with integrity.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $60,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>EFL Church Services</strong> Facility, food, worship, and service-related expenses.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $30,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>Mission Trips</strong> Sending men to share the Gospel without the burden of finances.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $15,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>Vehicles for Men in Need</strong> Loaner vehicles so men can work, care for family, and remain mobile.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $20,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>Homeless Outreach</strong> Care packages with food, clothing, and essential supplies.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $10,000</span>
                       </li>
-                      <li style="margin-bottom:12px;">
+                      <li style="margin-bottom:14px;">
                         <strong>EFL Supported Ministries</strong> Supporting partner ministries led by EFL brothers.<br>
                         <span style="color:#b30000;font-weight:bold;">Goal: $20,000</span>
                       </li>
@@ -183,7 +182,7 @@
                     </ul>
 
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="20" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                     </table>
 
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
@@ -191,20 +190,20 @@
                     </table>
 
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="20" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                     </table>
 
-                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:1.75;">
+                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.75;">
                       To see the impact of this ministry firsthand, we invite you to watch this short video highlighting
                       what God is doing through EFL: 👇 <strong>EFL Benevolence Fund</strong>
                     </div>
 
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="20" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                     </table>
 
                     <!-- Video Section: Image + Button aligned -->
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 18px auto;">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 20px auto;">
                       <tr>
                         <td align="center">
 
@@ -212,29 +211,27 @@
                             <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/69f84890-7137-966e-a44b-24c1e759054e.jpg" alt="EFL Benevolence Fund Video" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:10px;">
                           </a>
 
-                          <!-- Spacer (Outlook-safe) -->
                           <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                            <tr><td height="10" style="font-size:0;line-height:0;">&nbsp;</td></tr>
+                            <tr><td height="12" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                           </table>
 
-                          <!-- Larger button -->
                           <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
                             <tr>
                               <td align="center">
                                 <!--[if mso]>
                                 <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
                                   href="https://www.youtube.com/watch?v=ltxjz0IY_E0"
-                                  style="height:48px;v-text-anchor:middle;width:220px;"
+                                  style="height:56px;v-text-anchor:middle;width:260px;"
                                   arcsize="12%" stroke="f" fillcolor="#b30000">
                                   <w:anchorlock/>
-                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;">
+                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
                                     WATCH VIDEO
                                   </center>
                                 </v:roundrect>
                                 <![endif]-->
 
                                 <!--[if !mso]><!-- -->
-                                <a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:48px;text-decoration:none;padding:0 20px;border-radius:6px;">
+                                <a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:56px;text-decoration:none;padding:0 24px;border-radius:6px;">
                                   WATCH VIDEO
                                 </a>
                                 <!--<![endif]-->
@@ -246,19 +243,16 @@
                       </tr>
                     </table>
 
-                    <!-- Spacer between buttons (Outlook-safe) -->
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="20" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
+                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                     </table>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       We humbly ask you to consider partnering with Equipped for Life with a Monthly or One-Time blessing,
                       of any amount, to provide stability and growth for the Benevolence Fund.
                     </p>
 
-                    <div style="background:#f7f7f7;border-left:4px solid #b30000;padding:12px;margin:0 0 14px 0;font-size:16px;line-height:1.7;">
+                    <div style="background:#f7f7f7;border-left:4px solid #b30000;padding:14px;margin:0 0 18px 0;font-size:20px;line-height:1.75;">
                       <em>
                         “Calling his disciples to him, Jesus said, ‘Truly I tell you, this poor widow has put more into the
                         treasury than all the others…’”
@@ -266,47 +260,42 @@
                       <strong>Mark 12:43–44</strong>
                     </div>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       If you would like to learn more about how your contributions are allocated, please feel free to reach out and
                       schedule a time to connect with Alex at <strong>972.742.2220</strong>.
                     </p>
 
-                    <p style="margin:0 0 14px 0;">
+                    <p style="margin:0 0 18px 0;">
                       Thank you for your continued support, generosity, and faithfulness. May the Lord bless you and your family.
                     </p>
 
-                    <!-- Spacer -->
                     <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="20" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
+                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
                     </table>
 
-                    <!-- Donate CTA (centered text + button) -->
-                    <div style="text-align:center;margin:0 auto 14px auto;font-family:Arial,Helvetica,sans-serif;font-size:16px;color:#4a4a4a;">
+                    <div style="text-align:center;margin:0 auto 18px auto;font-family:Arial,Helvetica,sans-serif;font-size:20px;color:#4a4a4a;">
 
-                      <div style="margin-bottom:10px;">
+                      <div style="margin-bottom:12px;">
                         <a href="https://eflmen.com/give/" style="color:#4a4a4a;text-decoration:none;font-weight:bold;">
                           Click here to donate
                         </a>
                       </div>
 
-                      <!-- Larger GIVE HERE button -->
                       <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto 14px auto;border-collapse:collapse;">
                         <tr>
                           <td align="center">
                             <!--[if mso]>
                             <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/give/"
-                              style="height:50px;v-text-anchor:middle;width:220px;" arcsize="12%" stroke="f" fillcolor="#b30000">
+                              style="height:58px;v-text-anchor:middle;width:260px;" arcsize="12%" stroke="f" fillcolor="#b30000">
                               <w:anchorlock/>
-                              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;">
+                              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
                                 GIVE HERE
                               </center>
                             </v:roundrect>
                             <![endif]-->
 
                             <!--[if !mso]><!-- -->
-                            <a href="https://eflmen.com/give/" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;line-height:50px;text-decoration:none;padding:0 20px;border-radius:6px;">
+                            <a href="https://eflmen.com/give/" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:58px;text-decoration:none;padding:0 24px;border-radius:6px;">
                               GIVE HERE
                             </a>
                             <!--<![endif]-->
