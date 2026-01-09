@@ -9,7 +9,7 @@
           <td width="6" style="background:#b30000;">&nbsp;</td>
 
           <!-- FAST PRACTICAL CHANGE: more padding for mobile readability -->
-          <td style="padding:22px 20px 24px 20px;">
+          <td class="mobile-pad mobile-inner" style="padding:22px 20px 24px 20px;">
 
             <div style="border-top:1px solid #000000;margin-bottom:14px;"></div>
 
@@ -353,12 +353,26 @@
           </tr>
         </table>
 
-        <style type="text/css">
-          @media only screen and (max-width: 480px){
-            table#canspamBar td{font-size:14px !important;}
-            table#canspamBar td a{display:block !important; margin-top:10px !important;}
-          }
-        </style>
+       <!-- Add this inside your <style> block (Mailchimp template header) -->
+<style type="text/css">
+  @media only screen and (max-width: 480px){
+    /* Condense side padding on mobile */
+    .mobile-pad{padding:14px 12px !important;}
+    .mobile-pad-tight{padding:12px 10px !important;}
+
+    /* Keep the red rail but reduce the left/right space */
+    .mobile-inner{padding-left:12px !important;padding-right:12px !important;}
+
+    /* Optional: slightly reduce headline size on very small screens */
+    .mobile-h1{font-size:20px !important;line-height:1.2 !important;}
+  }
+</style>
+
+<!-- THEN: replace your current inner <td> with this (same content inside) -->
+<td class="mobile-pad mobile-inner" style="padding:22px 20px 24px 20px;">
+  ...
+</td>
+
       </center>
 
     </td>
