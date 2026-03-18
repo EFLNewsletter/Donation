@@ -1,398 +1,2205 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- EFL FUNDRAISING EMAIL (newsletter-style, goal amounts in red) -->
-<!-- NEWSLETTER WIDTH CONTAINER (centered 600px, Outlook-safe) -->
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#ffffff;border-collapse:collapse;">
-  <tr>
-    <td align="center" style="padding:0;">
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset="utf-8">
+  <title>EFL Newsletter</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <style type="text/css"> 
+    /* Mobile helpers */
+    @media screen and (max-width:600px){
+      .container{width:100% !important;}
+      .stack{display:block !important;width:100% !important;}
+      img.fluid{width:100% !important;height:auto !important;}
+    }
+    a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;}
+  </style>
+</head>
+<body style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;margin:0;padding:0;background:#e8e8e8;">
+  <!-- Hidden preheader (strengthened) -->
+  <div style="display:none!important;visibility:hidden;opacity:0;color:transparent;height:0;width:0;mso-hide:all;overflow:hidden;line-height:1px;font-size:1px;max-height:0;max-width:0;">
+    EFL Newsletter
+  </div>
 
+  <center style="width:100%;background:#e8e8e8;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tr>
+        <td align="center" style="padding:20px;">
+          <!-- Outer container -->
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" class="container" style="width:600px;max-width:600px;background:#ffffff;border:1px solid #c0c0c0;">
+      
+
+          <!-- TOP RIGHT DATE -->
+<tr>
+  <td align="right" bgcolor="#2a2a2a" style="background:#2a2a2a;
+             padding:8px 20px 8px 20px;
+             font-family:Arial,Helvetica,sans-serif;
+             font-size:18px;
+             color:#ffffff;
+             letter-spacing:1px;">
+    March  16th, 2026 
+  </td>
+</tr>
+            <!-- HEADER -->
+            <tr>
+              <td bgcolor="#2a2a2a" style="background:#2a2a2a;padding:28px 20px;text-align:center;">
+                <a href="*|ARCHIVE|*" style="text-decoration:none;">
+                  <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/0e42d3fd-ec18-ee39-d850-7d8fbbe90688.png" width="120" alt="EFL Logo" border="0" style="display:block;margin:0 auto 12px auto;border:0;">
+                </a>
+                <h1 style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:26px;color:#ffffff;letter-spacing:2px;">EQUIPPED FOR LIFE</h1>
+                <p style="margin:0 0 18px 0;font-size:13px;color:#cccccc;letter-spacing:1px;">CHARITY • CONNECTION • CONTENT</p>
+
+<!-- CTA Row -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+  <tr>
+    <td align="center" style="padding:4px 6px;">
       <!--[if mso]>
-      <table role="presentation" width="600" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-        <tr>
-          <td>
+      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/connect/"
+        style="height:44px;v-text-anchor:middle;width:280px;" arcsize="10%" strokecolor="#6a6a6a" fillcolor="#4a4a4a">
+        <w:anchorlock/>
+        <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+          JOIN THE BROTHERHOOD
+        </center>
+      </v:roundrect>
       <![endif]-->
-
       <!--[if !mso]><!-- -->
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"
-             style="max-width:600px;margin:0 auto;border-collapse:collapse;">
-        <tr>
-          <td>
+      <a href="https://eflmen.com/connect/" target="_blank" style="background:#4a4a4a;border:1px solid #6a6a6a;border-radius:6px;color:#ffffff;display:inline-block;
+                font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;
+                text-decoration:none;padding:0 16px;white-space:nowrap;-webkit-text-size-adjust:none;mso-hide:all;">
+        JOIN THE BROTHERHOOD
+      </a>
       <!--<![endif]-->
+    </td>
 
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+    <td align="center" style="padding:4px 6px;">
+      <!--[if mso]>
+      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/give/"
+        style="height:44px;v-text-anchor:middle;width:260px;" arcsize="10%" strokecolor="#6a6a6a" fillcolor="#4a4a4a">
+        <w:anchorlock/>
+        <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+          SUPPORT THE MISSION
+        </center>
+      </v:roundrect>
+      <![endif]-->
+      <!--[if !mso]><!-- -->
+      <a href="https://eflmen.com/give/" target="_blank" style="background:#4a4a4a;border:1px solid #6a6a6a;border-radius:6px;color:#ffffff;display:inline-block;
+                font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;
+                text-decoration:none;padding:0 16px;white-space:nowrap;-webkit-text-size-adjust:none;mso-hide:all;">
+        SUPPORT THE MISSION
+      </a>
+      <!--<![endif]-->
+    </td>
+  </tr>
+</table>
+
+<!-- EFL HIGHLIGHTS (centered; no boxes) -->
+</td></tr><tr>
+  <td style="padding:22px;background:#ffffff;border-bottom:3.5px solid #e0e0e0;">
+    <h2 style="margin:0 0 12px 0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;text-align:center;">   
+      FEATURED NEWS AND UPDATES
+    </h2>
+
+<!-- EFL HIGHLIGHTS — Single red rail wrapper (prevents gray gaps) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
   <tr>
-    <td style="padding:0;background:#ffffff;">
+    <!-- Continuous red rail -->
+    <td width="6" bgcolor="#d32f2f" style="line-height:0;font-size:0;">&nbsp;</td>
 
-      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+    <!-- Right content column: stack items inside this one cell -->
+    <td style="padding:0;">
+
+<!-- FEATURED: A Moment of Encouragement (top gray only, no red rail) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <!-- Keep ALL content inside this one TD so the rail stays intact -->
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <!-- Heading -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;">
+        A Moment of Encouragement from the Love Pastor
+      </div>
+
+      <!-- Subcopy -->
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;">
+        Take two minutes to be encouraged. A short word on living out Christ’s love.
+      </div>
+
+      <!-- Video Thumbnail (click to watch) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:12px auto 0 auto;max-width:560px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
         <tr>
-          <td width="6" style="background:#b30000;">&nbsp;</td>
-
-          <!-- FAST PRACTICAL CHANGE: more padding for mobile readability -->
-          <td class="mobile-pad mobile-inner" style="padding:22px 20px 24px 20px;">
-
-            <div style="border-top:1px solid #000000;margin-bottom:14px;"></div>
-
-            <div style="font-family:Georgia,serif;font-size:22px;font-weight:bold;text-align:center;margin-bottom:14px;">
-              Equipped for Life Men’s Ministry
-            </div>
-
-            <!-- Outlook-safe content width wrapper -->
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-              <tr>
-                <td align="center">
-
-                  <!--[if mso]>
-                  <table role="presentation" width="560" cellpadding="0" cellspacing="0" border="0">
-                    <tr>
-                      <td>
-                  <![endif]-->
-
-                  <!--[if !mso]><!-- -->
-                  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;border-collapse:collapse;">
-                    <tr>
-                      <td>
-                  <!--<![endif]-->
-
-                  <!-- UPDATED: body text size + line-height for older readers -->
-                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.75;color:#4a4a4a;">
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
-                    </table>
-
-                    <p style="margin:0 0 18px 0;">
-                      <strong>Equipped for Life Men’s Ministry (EFL)</strong> exists to help men grow in their relationship
-                      with Jesus Christ through Bible study, fellowship, and service—strengthening families and communities
-                      along the way. Since launching in 2017, EFL has become a place where men are discipled, supported,
-                      and equipped to live out their faith.
-                    </p>
-
-                    <p style="margin:0 0 18px 0;">
-                      See the mission behind EFL and our plans for 2026: 👇 <strong>EFL Fundraising Video</strong>
-                    </p>
-
-                    <!-- Video Section: Image + Button aligned -->
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 20px auto;">
-                      <tr>
-                        <td align="center">
-
-                          <!-- Video Thumbnail -->
-                          <a href="https://www.youtube.com/watch?v=uMW2HYmqNHM" style="text-decoration:none;">
-                            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/d1af7ec7-1f4f-07fd-0a94-3f489ac49845.png" alt="EFL Fundraising Video" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:10px;">
-                          </a>
-
-                          <!-- Spacer (Outlook-safe) -->
-                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                            <tr><td height="12" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                          </table>
-
-                          <!-- UPDATED: larger button text/height -->
-                          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
-                            <tr>
-                              <td align="center">
-                                <!--[if mso]>
-                                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
-                                  href="https://www.youtube.com/watch?v=uMW2HYmqNHM"
-                                  style="height:56px;v-text-anchor:middle;width:260px;"
-                                  arcsize="12%" stroke="f" fillcolor="#b30000">
-                                  <w:anchorlock/>
-                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
-                                    WATCH VIDEO
-                                  </center>
-                                </v:roundrect>
-                                <![endif]-->
-
-                                <!--[if !mso]><!-- -->
-                                <a href="https://www.youtube.com/watch?v=uMW2HYmqNHM" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:56px;text-decoration:none;padding:0 24px;border-radius:6px;">
-                                  WATCH VIDEO
-                                </a>
-                                <!--<![endif]-->
-                              </td>
-                            </tr>
-                          </table>
-
-                        </td>
-                      </tr>
-                    </table>
-
-                    <p style="margin:0 0 18px 0;">
-                      <strong>By God’s grace,</strong> EFL has hosted <strong>1,024 Bible studies,</strong> <strong>10 Family Nights,</strong> <strong>2 Retreats,</strong>
-                      and <strong>8 Baptisms,</strong> impacting <strong>610 men,</strong> sustaining <strong>141 active members,</strong> and raising <strong>$374,800</strong> to serve men,
-                      families, and ministries through discipleship, outreach, and direct financial assistance.
-                      As we look ahead to 2026, our primary focus is <strong>Equipped for Life’s Benevolence Fund.</strong>
-                    </p>
-
-                    <p style="margin:0 0 18px 0;">
-                      This fund is designed to be a <strong>safety net for Christian men facing hardship.</strong> Our heart is to operate
-                      as a the Lord's Bank whose lending decisions are based not only on a man’s ability to repay, but equally on his
-                      <strong>faith, character, and commitment to walk with Christ.</strong>
-                    </p>
-
-                    <!-- Spacer ABOVE divider (Outlook-safe) -->
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
-                    </table>
-
-                    <!-- Divider (NO margin here) -->
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td style="border-top:1px solid #000000;font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
-                    </table>
-
-                    <!-- Spacer BELOW divider (Outlook-safe) -->
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="22" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
-                    </table>
-
-                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.4;font-weight:bold;margin:0;padding:0;">
-                      The Benevolence Fund supports the following ministry goals:
-                    </div>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr>
-                        <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
-                      </tr>
-                    </table>
-
-                    <ul style="padding-left:18px;margin:0;font-size:20px;line-height:1.75;">
-                      <li style="margin-bottom:14px;">
-                        <strong>Basic Needs</strong> Rent, food, utilities, diapers, and essential living expenses.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $100,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>Micro Loans</strong> Business start-ups, debt consolidation, and personal loans.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $50,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>Ministry Expenses</strong> Core operating costs stewarded with integrity.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $60,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>EFL Church Services</strong> Facility, food, worship, and service-related expenses.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $30,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>Mission Trips</strong> Sending men to share the Gospel without the burden of finances.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $15,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>Vehicles for Men in Need</strong> Loaner vehicles so men can work, care for family, and remain mobile.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $20,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>Homeless Outreach</strong> Care packages with food, clothing, and essential supplies.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $10,000</span>
-                      </li>
-                      <li style="margin-bottom:14px;">
-                        <strong>EFL Supported Ministries</strong> Supporting partner ministries led by EFL brothers.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $20,000</span>
-                      </li>
-                      <li style="margin-bottom:0;">
-                        <strong>EFL Social Media</strong> Podcasts and content extending Christ’s message beyond our walls.<br>
-                        <span style="color:#b30000;font-weight:bold;">Goal: $20,000</span>
-                      </li>
-                    </ul>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td style="border-top:1px solid #000000;font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <div style="font-family:Arial,Helvetica,sans-serif;font-size:20px;line-height:1.75;">
-                      To see the impact of this ministry firsthand, we invite you to watch this short video highlighting
-                      what God is doing through EFL: 👇 <strong>EFL Benevolence Fund</strong>
-                    </div>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <!-- Video Section: Image + Button aligned -->
-                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" width="100%" style="border-collapse:collapse;margin:0 auto 20px auto;">
-                      <tr>
-                        <td align="center">
-
-                          <a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" style="text-decoration:none;">
-                            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/69f84890-7137-966e-a44b-24c1e759054e.jpg" alt="EFL Benevolence Fund Video" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:10px;">
-                          </a>
-
-                          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                            <tr><td height="12" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                          </table>
-
-                          <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse:collapse;">
-                            <tr>
-                              <td align="center">
-                                <!--[if mso]>
-                                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
-                                  href="https://www.youtube.com/watch?v=ltxjz0IY_E0"
-                                  style="height:56px;v-text-anchor:middle;width:260px;"
-                                  arcsize="12%" stroke="f" fillcolor="#b30000">
-                                  <w:anchorlock/>
-                                  <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
-                                    WATCH VIDEO
-                                  </center>
-                                </v:roundrect>
-                                <![endif]-->
-
-                                <!--[if !mso]><!-- -->
-                                <a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:56px;text-decoration:none;padding:0 24px;border-radius:6px;">
-                                  WATCH VIDEO
-                                </a>
-                                <!--<![endif]-->
-                              </td>
-                            </tr>
-                          </table>
-
-                        </td>
-                      </tr>
-                    </table>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <p style="margin:0 0 18px 0;">
-                      We humbly ask you to consider partnering with Equipped for Life with a Monthly or One-Time blessing,
-                      of any amount, to provide stability and growth for the Benevolence Fund.
-                    </p>
-
-                    <div style="background:#f7f7f7;border-left:4px solid #b30000;padding:14px;margin:0 0 18px 0;font-size:20px;line-height:1.75;">
-                      <em>
-                        “Calling his disciples to him, Jesus said, ‘Truly I tell you, this poor widow has put more into the
-                        treasury than all the others…’”
-                      </em><br>
-                      <strong>Mark 12:43–44</strong>
-                    </div>
-
-                    <p style="margin:0 0 18px 0;">
-                      If you would like to learn more about how your contributions are allocated, please feel free to reach out and
-                      schedule a time to connect with Alex at <strong>972.742.2220</strong>.
-                    </p>
-
-                    <p style="margin:0 0 18px 0;">
-                      Thank you for your continued support, generosity, and faithfulness. May the Lord bless you and your family.
-                    </p>
-
-                    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
-                      <tr><td height="22" style="font-size:0;line-height:0;">&nbsp;</td></tr>
-                    </table>
-
-                    <div style="text-align:center;margin:0 auto 18px auto;font-family:Arial,Helvetica,sans-serif;font-size:20px;color:#4a4a4a;">
-
-                      <div style="margin-bottom:12px;">
-                        <a href="https://eflmen.com/give/" style="color:#4a4a4a;text-decoration:none;font-weight:bold;">
-                          Click here to donate
-                        </a>
-                      </div>
-
-                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto 14px auto;border-collapse:collapse;">
-                        <tr>
-                          <td align="center">
-                            <!--[if mso]>
-                            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/give/"
-                              style="height:58px;v-text-anchor:middle;width:260px;" arcsize="12%" stroke="f" fillcolor="#b30000">
-                              <w:anchorlock/>
-                              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;">
-                                GIVE HERE
-                              </center>
-                            </v:roundrect>
-                            <![endif]-->
-
-                            <!--[if !mso]><!-- -->
-                            <a href="https://eflmen.com/give/" style="display:inline-block;background:#b30000;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:20px;font-weight:bold;line-height:58px;text-decoration:none;padding:0 24px;border-radius:6px;">
-                              GIVE HERE
-                            </a>
-                            <!--<![endif]-->
-                          </td>
-                        </tr>
-                      </table>
-
-                    </div>
-
-                    <p style="margin:0;">
-                      <br> With Love,<br>
-                      Alex Vantarakis<br>
-                      Equipped for Life Men’s Ministry
-                    </p>
-
-                  </div>
-
-                  </td>
-                </tr>
-              </table>
-
-              <!--[if mso]>
-                  </td>
-                </tr>
-              </table>
-              <![endif]-->
-
-                </td>
-              </tr>
-            </table>
-
+          <td align="center" style="padding:6px;">
+            <a href="https://youtu.be/2x1c9T8Ur9k" target="_blank" style="text-decoration:none;">
+              <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/b70f2039-8694-231c-c3e8-43971c4fba90.png" width="560" alt="Watch: A Moment of Encouragement with the Love Pastor" style="display:block;border:0;width:100%;max-width:560px;height:auto;margin:0;" class="fluid">
+            </a>
           </td>
         </tr>
       </table>
 
-      <center>
-        <br>
-
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" id="canspamBarWrapper" style="background-color:#FFFFFF; border-top:1px solid #E5E5E5;">
-          <tr>
-            <td align="center" valign="top" style="padding-top:20px; padding-bottom:20px;">
-              <table border="0" cellpadding="0" cellspacing="0" id="canspamBar">
-                <tr>
-                  <td align="center" valign="top" style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-height:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-align:center;">
-                    This email was sent to <a href="mailto:&lt;&lt; Test Email Address &gt;&gt;" target="_blank" style="color:#404040 !important;">&lt;&lt; Test Email Address &gt;&gt;</a>
-                    <br>
-                    <a href="https://eflmen.us16.list-manage.com/about?u=4c57091bf25d401d85fe2b8ef&id=12418daa95&e=[UNIQID]&c=cb73519aab" target="_blank" style="color:#404040 !important;"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eflmen.us16.list-manage.com/unsubscribe?u=4c57091bf25d401d85fe2b8ef&id=12418daa95&t=b&e=[UNIQID]&c=cb73519aab" style="color:#404040 !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://eflmen.us16.list-manage.com/profile?u=4c57091bf25d401d85fe2b8ef&id=12418daa95&e=[UNIQID]&c=cb73519aab" style="color:#404040 !important;">update subscription preferences</a>
-                    <br>
-                    Equipped For Life &middot; 17766 Preston Rd &middot; Dallas, TX 75252-5736 &middot; USA
-                    <br><br>
-                  </td>
-                </tr>
-              </table>
-            </td>
-          </tr>
-        </table>
-
-       <!-- Add this inside your <style> block (Mailchimp template header) -->
-<style type="text/css">
-  @media only screen and (max-width: 480px){
-    /* Condense side padding on mobile */
-    .mobile-pad{padding:14px 12px !important;}
-    .mobile-pad-tight{padding:12px 10px !important;}
-
-    /* Keep the red rail but reduce the left/right space */
-    .mobile-inner{padding-left:12px !important;padding-right:12px !important;}
-
-    /* Optional: slightly reduce headline size on very small screens */
-    .mobile-h1{font-size:20px !important;line-height:1.2 !important;}
-  }
-</style>
-
-<!-- THEN: replace your current inner <td> with this (same content inside) -->
-<td class="mobile-pad mobile-inner" style="padding:22px 20px 24px 20px;">
-  ...
-</td>
-
-      </center>
+      <!-- Bulletproof CTA Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:10px auto 0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="https://youtu.be/2x1c9T8Ur9k"
+            style="height:36px;v-text-anchor:middle;width:200px;" arcsize="10%"
+            strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              WATCH THE VIDEO
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <!--[if !mso]><!-- -->
+          <a href="https://youtu.be/2x1c9T8Ur9k" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            WATCH THE VIDEO
+          </a>
+          <!--<![endif]-->
+        </td></tr>
+      </table>
 
     </td>
   </tr>
 </table>
+
+<!-- FEATURED: EFL Women's Bible Study -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 16px 12px;background:#ffffff;">
+
+      <!-- Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="10" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Header -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;
+                  margin:0 0 10px;text-align:center;">
+        New EFL Women's Bible Study
+      </div>
+
+      <!-- EFL Logo -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 12px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/9b8afd99-8243-9d29-ff27-f2bfccf41605.png" alt="Equipped for Life" width="160" style="display:block;width:160px;height:auto;border:0;">
+          </td>
+        </tr>
+      </table>
+
+      <!-- Body -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.7;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          We are excited to announce the launch of a new <strong>EFL Women's Bible Study</strong>
+          led by <strong>Jacqueline Johnson</strong>. This group will provide a place for women
+          to grow in their relationship with Christ through fellowship, prayer, and studying
+          God's Word together.
+        </p>
+
+        <p style="margin:0 0 10px 0;">
+          The first study will be held <strong>March 16th at 6:30 PM on Zoom</strong>.
+        </p>
+
+        <p style="margin:0;">
+          If you would like more information or know a woman in your life who may be
+          interested in joining, please reach out to
+          <strong>Alex Vantarakis (972-742-2220)</strong>.
+        </p>
+
+      </div>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Video Label -->
+      <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;
+                  text-align:center;margin:0 0 8px 0;">
+        A Message from Jacqueline Johnson
+      </div>
+
+      <!-- Video Thumbnail (linked to video) -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 12px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center">
+            <a href="https://youtube.com/shorts/n2HlL6f4HIc?feature=share" target="_blank" style="text-decoration:none;border:0;display:block;">
+              <img src="https://img.youtube.com/vi/n2HlL6f4HIc/hqdefault.jpg" alt="A Message from Jacqueline Johnson" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Watch Video Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto 14px auto;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+              href="https://youtube.com/shorts/n2HlL6f4HIc?feature=share"
+              style="height:36px;v-text-anchor:middle;width:240px;" arcsize="10%"
+              strokecolor="#d32f2f" fillcolor="#ffffff">
+              <w:anchorlock/>
+              <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+                WATCH JACQUELINE'S MESSAGE
+              </center>
+            </v:roundrect>
+            <![endif]-->
+            <!--[if !mso]><!-- -->
+            <a href="https://youtube.com/shorts/n2HlL6f4HIc?feature=share" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                      font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                      text-decoration:none;width:240px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+              WATCH JACQUELINE'S MESSAGE
+            </a>
+            <!--<![endif]-->
+          </td>
+        </tr>
+      </table>
+
+   <!-- Join Button -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+  <tr>
+    <td align="center">
+      <a href="https://teams.microsoft.com/meet/21877416990062?p=BGU0TYDfHF7hLqP8Cp" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;
+                color:#d32f2f;display:inline-block;
+                font-family:Arial,Helvetica,sans-serif;
+                font-size:13px;font-weight:bold;
+                line-height:36px;text-align:center;
+                text-decoration:none;width:220px;">
+        JOIN MEETING HERE AT 7
+      </a>
+    </td>
+  </tr>
+</table>
+
+    </td>
+  </tr>
+</table>
+<!-- FEATURED NEWS: Family Night (no new red rail, black dividers, includes photo) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td style="padding:14px 14px 12px 12px;background:#ffffff;">
+
+      <!-- Black divider ABOVE header -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Header + intro -->
+      <div style="height:10px;line-height:10px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+    <!-- Replace just the header line with this centered version -->
+<div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;text-align:center;">
+  Family Night – Prayer &amp; Praise
+</div>
+
+ 
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;">
+        Join us for Family Night as we gather to worship, pray, and encourage one another.
+      </div>
+
+      <!-- Meta boxes (stack on mobile) -->
+      <div style="height:12px;line-height:12px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 auto;max-width:560px;border-collapse:collapse;">
+        <tr>
+          <td class="stack" width="33.33%" valign="top" align="left" style="padding:8px;border:1px solid #e6e6e6;">
+            <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">Date &amp; Time</div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+              Saturday March 28th, 4:45 PM – 7:00 PM
+            </div>
+          </td>
+          <td class="stack" width="33.33%" valign="top" align="left" style="padding:8px;border:1px solid #e6e6e6;">
+            <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">Location</div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+              Grace Presbyterian Church, 4300 W Park Blvd, Plano
+            </div>
+          </td>
+          <td class="stack" width="33.33%" valign="top" align="left" style="padding:8px;border:1px solid #e6e6e6;">
+            <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">What to Bring</div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+              A bible, family and/or friend &amp; a dessert to share
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Photo between boxes and button -->
+      <div style="height:10px;line-height:10px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 auto;max-width:560px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+        <tr style="font-size:0;line-height:0;mso-line-height-rule:exactly;">
+          <td align="center" style="padding:8px 0;">
+            <a href="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/d64553a8-768d-bfea-73b6-e0a948b92367.jpg" target="_blank" style="text-decoration:none;">
+              <!-- Replace src with your hosted image URL -->
+              <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/d64553a8-768d-bfea-73b6-e0a948b92367.jpg" width="560" alt="Family Night – Join Us" style="display:block;border:0;width:100%;max-width:560px;height:auto;margin:0;">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- CTA button -->
+      <div style="height:10px;line-height:10px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+              href="https://www.eventbrite.com/e/efl-family-night-praise-prayers-and-dinner-tickets-1474684754799?aff=oddtdtcreator"
+              style="height:36px;v-text-anchor:middle;width:200px;" arcsize="10%"
+              strokecolor="#d32f2f" fillcolor="#ffffff">
+              <w:anchorlock/>
+              <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+                REGISTER NOW
+              </center>
+            </v:roundrect>
+            <![endif]-->
+            <a href="https://www.eventbrite.com/e/efl-family-night-praise-prayers-and-dinner-tickets-1474684754799?aff=oddtdtcreator" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                      font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                      text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+              REGISTER NOW
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!-- IN LOVING MEMORY: Stephen DeWitt McDaniel -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 18px 12px;background:#ffffff;">
+
+      <!-- Top Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 12px;text-align:center;">
+        In Loving Memory of Stephen DeWitt McDaniel
+      </div>
+
+<!-- Memorial Photo Grid -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 16px auto;border-collapse:collapse;">
+  
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" style="padding:4px;">
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/424e002d-b3e7-7871-fea0-9d72758ed8e8.jpg" width="250" height="180" style="display:block;width:250px;height:180px;object-fit:cover;border-radius:6px;">
+    </td>
+
+    <td align="center" style="padding:4px;">
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/e631947f-c747-5d20-cc96-ddb75eedb64a.jpg" width="250" height="180" style="display:block;width:250px;height:180px;object-fit:cover;border-radius:6px;">
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" style="padding:4px;">
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/7d548c3e-c333-4e0f-8491-7524a2e15521.jpeg" width="250" height="180" style="display:block;width:250px;height:180px;object-fit:cover;border-radius:6px;">
+    </td>
+
+    <td align="center" style="padding:4px;">
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/cf3f0c0f-4fec-2724-a1dc-0af90cbd275e.jpeg" width="250" height="180" style="display:block;width:250px;height:180px;object-fit:cover;border-radius:6px;">
+    </td>
+  </tr>
+
+</table>
+
+      <!-- Memorial Text -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.7;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          We honor the life of <strong>Stephen DeWitt McDaniel</strong>, a beloved brother whose faith, joy, and love
+          for family left a lasting impact on all who knew him. Steve treasured his EFL Bible study community
+          and will be remembered for his generosity, adventurous spirit, and deep devotion to the Lord.
+        </p>
+
+        <p style="margin:0;">
+          Please continue to lift the McDaniel family up in prayer during this time. His legacy of faith,
+          love, and fellowship will not be forgotten.
+        </p>
+
+      </div>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="14" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Obituary Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
+        <tr>
+          <td align="center">
+            <a href="https://www.billdeberry.com/obituaries/stephen-mcdaniel" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;
+                      display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:13px;
+                      line-height:36px;text-align:center;text-decoration:none;width:200px;">
+              FULL OBITUARY
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!-- FEATURED: Happy Belated Birthday Warren Hogan -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 16px 12px;background:#ffffff;">
+
+      <!-- Top Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;text-align:center;">
+        Happy Belated Birthday, Warren Hogan!
+      </div>
+
+      <!-- Subtitle -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777777;text-align:center;margin:0 0 14px 0;letter-spacing:0.5px;">
+        Celebrating 89 Years of Leadership & Faithfulness
+      </div>
+
+      <!-- Photo (linked to video) -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 16px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center">
+            <a href="https://youtube.com/shorts/Ysc69l7B0yY?feature=share" target="_blank" style="text-decoration:none;border:0;display:block;">
+              <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/431332af-2852-8743-f7e6-b0847fd01ba0.jpg" alt="Warren Hogan" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Body -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.7;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          This month we celebrate a very special milestone — our brother <strong>Warren Hogan</strong> has turned <strong>89 years old</strong>. Warren, we want you to know that your presence in this brotherhood is one of the greatest gifts God has given our community.
+        </p>
+
+        <p style="margin:0 0 10px 0;">
+          The way you carry yourself — with humility, grace, and an unshakable faith in the Lord — is a living testimony to every man in this room. You have shown us what it looks like to walk with Christ not just for a season, but for a lifetime. Your example speaks louder than any sermon.
+        </p>
+
+        <p style="margin:0;">
+          We are eternally grateful to call you our brother, our elder, and our friend. May the Lord continue to bless you richly, Warren. Here's to 89 years of faithfulness — and many more to come.
+        </p>
+
+      </div>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="10" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="https://youtube.com/shorts/Ysc69l7B0yY?feature=share"
+            style="height:36px;v-text-anchor:middle;width:240px;" arcsize="10%"
+            strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              WARREN'S AMAZING DANCING
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <!--[if !mso]><!-- -->
+          <a href="https://youtube.com/shorts/Ysc69l7B0yY?feature=share" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:240px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            WARREN'S AMAZING DANCING
+          </a>
+          <!--<![endif]-->
+        </td></tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!-- FEATURED: Jackson Stursma Baptism -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 16px 12px;background:#ffffff;">
+
+      <!-- Top Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;text-align:center;">
+        Congratulations on Your Baptism, Jackson Stursma!
+      </div>
+
+      <!-- Subtitle -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777777;text-align:center;margin:0 0 14px 0;letter-spacing:0.5px;">
+        Welcome to the Family of God
+      </div>
+
+      <!-- Photo (linked to video) -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 16px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center">
+            <a href="https://youtube.com/shorts/47FTNikg2Ks?feature=share" target="_blank" style="text-decoration:none;border:0;display:block;">
+              <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/be2379a5-1a2e-59c3-020a-9038c34c1ddc.jpg" alt="Jackson Stursma Baptism" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Body -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.7;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          We are overjoyed to celebrate the baptism of our new brother <strong>Jackson Stursma</strong>. This is a beautiful and powerful moment — a public declaration of faith and a new beginning in Christ. Jackson, on behalf of the entire EFL brotherhood, we congratulate you and welcome you with open arms.
+        </p>
+
+        <p style="margin:0 0 10px 0;">
+          Baptism marks the start of an incredible journey — one filled with growth, purpose, and the steadfast love of God. As you step into this new chapter, know that you do not walk alone. You have a community of brothers who will pray with you, stand beside you, and sharpen you in the faith.
+        </p>
+
+        <p style="margin:0;">
+          We lift Jackson up in prayer as he continues forward in his walk with the Lord. May God bless every step of this journey and use your life as a testimony of His grace and redemption.
+        </p>
+
+      </div>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="10" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="https://youtube.com/shorts/47FTNikg2Ks?feature=share"
+            style="height:36px;v-text-anchor:middle;width:240px;" arcsize="10%"
+            strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              WATCH JACKSON'S BAPTISM
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <!--[if !mso]><!-- -->
+          <a href="https://youtube.com/shorts/47FTNikg2Ks?feature=share" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:240px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            WATCH JACKSON'S BAPTISM
+          </a>
+          <!--<![endif]-->
+        </td></tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- FEATURED: Matthew Kardesh Watermark Church Regeneration Commencement -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 16px 12px;background:#ffffff;">
+
+      <!-- Top Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;text-align:center;">
+        Congratulations, Matthew Kardesh!
+      </div>
+
+      <!-- Subtitle -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777777;text-align:center;margin:0 0 14px 0;letter-spacing:0.5px;">
+        Watermark Church Regeneration Program Commencement
+      </div>
+
+      <!-- Photo (linked to video) -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:520px;margin:0 auto 16px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center">
+            <a href="https://youtube.com/shorts/Q34qLdE4NAQ?feature=share" target="_blank" style="text-decoration:none;border:0;display:block;">
+              <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/3151a7a2-f282-f233-e233-61fac4e8f5db.jpg" alt="Matthew Kardesh Commencement" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;border-radius:6px;">
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Body -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.7;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          We are incredibly proud to celebrate our brother <strong>Matthew Kardesh</strong> on his commencement from the <strong>Watermark Church Regeneration Program</strong>. This milestone is a powerful testament to Matthew's commitment, perseverance, and faith in the transforming power of Jesus Christ.
+        </p>
+
+        <p style="margin:0 0 10px 0;">
+          The Regeneration program is no small undertaking — it requires courage, vulnerability, and a wholehearted surrender to God's healing and restoration. Matthew, you have done that and more. What God has done in your life through this journey is a beautiful picture of His grace at work.
+        </p>
+
+        <p style="margin:0;">
+          We congratulate you, we honor you, and we stand with you as you step boldly into the next chapter. The entire EFL brotherhood is grateful to call you our brother and is excited to see all that God has in store for your life. Well done, Matthew — to God be the glory.
+        </p>
+
+      </div>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="10" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="https://youtube.com/shorts/Q34qLdE4NAQ?feature=share"
+            style="height:36px;v-text-anchor:middle;width:240px;" arcsize="10%"
+            strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              WATCH MATTHEW'S SPEECH
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <!--[if !mso]><!-- -->
+          <a href="https://youtube.com/shorts/Q34qLdE4NAQ?feature=share" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:240px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            WATCH MATTHEW'S SPEECH
+          </a>
+          <!--<![endif]-->
+        </td></tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+<!-- FEATURED: Bible Studies & Teachers (4 boxes, matches First Time Members style) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;">
+        Bible Studies &amp; Teachers
+      </div>
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;">
+        This week’s teachers and sessions across our studies. Invite a brother and grow together.
+      </div>
+
+      <!-- 2 x 2 grid of bordered cards (stack on mobile) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:12px auto 0 auto;max-width:560px;border-collapse:collapse;">
+        <tr>
+          <!-- Card 1 -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Chris Tyler
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0 0 6px;">
+                    <em>Acts 10</em>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+                    Tuesday, 7:00 PM – 9:00 PM<br>
+                    7029 Fullerton Dr., Plano
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Card 2 -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    John Hershenberg
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0 0 6px;">
+                    <em>Acts 10</em>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+                    Wednesday, 12:00 PM – 1:30 PM<br>
+                    17766 Preston Rd, Dallas
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <tr>
+          <!-- Card 3 -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Brandon Ricks
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0 0 6px;">
+                    <em>Acts 11</em>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+                    Friday, 12:00 PM – 1:30 PM<br>    
+                    17766 Preston Rd, Dallas
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Card 4 (NEW) -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Brandon Ricks 
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0 0 6px;">
+                    <em>Acts 11</em>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0;">
+                    Saturday, 9:00 AM – 11:00 AM<br>
+                    17766 Preston Rd, Dallas
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+<!-- FEATURED: Prayer & Praise Report (Split: Praises & Prayers) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <!-- Section Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 8px;">
+        Prayer &amp; Praise Report
+      </div>
+
+      <!-- Intro Text -->
+      <div style="max-width:520px;margin:0 auto 10px auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;text-align:center;">
+        Rejoice with us in what God is doing, and continue to lift these brothers and their families up in prayer.
+      </div>
+
+
+  <!-- Section Image -->
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/9d88144a-0c02-7d37-4350-65b6c1fda7eb.png" alt="Prayer and Praise" width="520" style="display:block;width:100%;max-width:520px;height:auto;border:0;margin:0 auto 12px auto;">
+
+      <!-- Content Wrapper -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;text-align:left;">
+
+        <!-- Praises -->
+        <div style="margin:0 0 8px 0;font-weight:bold;">
+          Praises
+        </div>
+        <ul style="padding-left:18px;margin:0 0 14px 0;">
+        <li>
+            <strong>Alex V.</strong> having surgrey this past Wednesday and being healed from sciatica.
+          </li>
+          <li>
+            <strong>David M.</strong> got his daughter back.
+          </li>    
+          <li>
+            <strong>Josh H.</strong> Promoted at his job and interviewing to be a chaplain.
+          </li>  
+          <li>
+            <strong>Tommy G.</strong> being able to see his daughter after a decade.
+          </li>
+        </ul>
+
+        <!-- Prayers -->
+        <div style="margin:0 0 8px 0;font-weight:bold;">
+          Prayers
+        </div>
+        <ul style="padding-left:18px;margin:0;">
+           <li>
+            <strong>Robert B.</strong> healing of his body as he is facing medical problems.
+          </li>
+             <li>
+            <strong>Donna S.</strong>  healing of her body as she is facing medical problems.
+          </li>
+         <li>
+            <strong>Steve M's Family</strong> after his passing, we pray the Lord comforts them during this time.
+          </li>
+          <li>
+            <strong>Rob P.</strong> healing of his body & financial provision.
+          </li>
+          <li>
+            <strong>Alex V.</strong> healing of sciatica. 
+          </li>
+          <li>
+            <strong>Brandon R.</strong> for direction in his business. 
+          </li>
+           <li>
+            <strong>Jovan G.</strong> for his mission to become a preacher. 
+          </li>
+           <li>
+            <strong>Clay A.</strong> for the death of his ex-wife. 
+          </li>
+           <li>
+            <strong>Brandon R.</strong> for direction in his business. 
+          </li>
+          <li>
+            <strong>Tommy B.</strong> for employment opportunities.
+          </li>    
+        </ul>
+
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+
+<!-- FEATURED: New Members & Who Brought Them (no button) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;">
+        First Time Members
+      </div>
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;">
+        Help us welcome new members to the EFL brotherhood and honor the men who invited them. 
+        <em>Iron sharpens iron.</em>
+      </div>
+
+      <!-- Two-column list (stacks on mobile) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:12px auto 0 auto;max-width:560px;border-collapse:collapse;">
+        <tr>
+          <!-- Column 1 -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Ed Rudawski
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0 0 6px;">
+                     Invited By <strong>Alvin Clairborne</strong>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0;">
+                    Joined 02/28 at Saturday Morning Study
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Column 2 -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Mike Bauer
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0 0 6px;">
+                     Invited By <strong> Alvin Clairborne</strong>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0;">
+                     Joined 02/28 at Saturday Morning Study
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Row 2 (duplicate this row block as needed) -->
+        <tr>
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Sam Khoury
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0 0 6px;">
+                  Invited By <strong>Adrian Kirby</strong>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0;">
+                    Joined 02/27 at Friday Afternoon Study
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Empty spacer card (remove if you add another member here) -->
+          <td class="stack" width="50%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;">
+              <tr>
+                <td style="padding:10px;text-align:left;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;margin:0 0 4px;">
+                    Jackson Strursma
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:0 0 6px;">
+                    Invited by <strong>Todd Petersen</strong>
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;margin:0;">
+                    Joined 02/27 at Friday Afternoon Study
+                  </div>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+
+<!-- FEATURED: What EFL Members Are Saying -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 16px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 8px;">
+        What EFL Members Are Saying
+      </div>
+
+      <div style="max-width:520px;margin:0 auto 12px auto;font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;text-align:center;">
+        A few words from the brothers on what God is doing through community, discipleship, and faith.
+      </div>
+
+      <!-- Section Image -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto 12px auto;border-collapse:collapse;">
+        <tr>
+          <td align="center" style="padding:0;">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/dcfbd942-4c16-4884-2132-cad3b82f91d1.jpg" alt="EFL Brothers" width="560" style="display:block;width:100%;max-width:560px;height:auto;border:0;outline:none;text-decoration:none;border-radius:6px;">
+          </td>
+        </tr>
+      </table>
+
+      <!-- Quote 1 -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto 10px auto;border-collapse:collapse;">
+        <tr>
+          <td style="padding:12px 12px;border-left:4px solid #d32f2f;background:#f5f5f5;border-radius:4px;text-align:left;">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;font-style:italic;margin:0;">
+              “EFL helped me understand that faith isn’t about trying to be perfect—it’s about obedience and walking closely with God.”
+            </div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:10px 0 0 0;font-weight:bold;">
+              — Clint Carter
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Quote 2 -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto 10px auto;border-collapse:collapse;">
+        <tr>
+          <td style="padding:12px 12px;border-left:4px solid #d32f2f;background:#f5f5f5;border-radius:4px;text-align:left;">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;font-style:italic;margin:0;">
+              “I came looking for brotherhood, and I found a community that challenged me to build my life around God’s purpose.”
+            </div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:10px 0 0 0;font-weight:bold;">
+              — Jake Thrust
+            </div>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Quote 3 -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="padding:12px 12px;border-left:4px solid #d32f2f;background:#f5f5f5;border-radius:4px;text-align:left;">
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;line-height:1.6;font-style:italic;margin:0;">
+              “I think the best part of this ministry is the diversity of backgrounds help to make us all stronger.”
+            </div>
+            <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777;margin:10px 0 0 0;font-weight:bold;">
+              — David Arnold
+            </div>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- FEATURED: How Can I Pray for You? (top grey only, no red rail) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0 0 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;">
+        Coming Soon – How Can I Pray for You Booth
+      </div>
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;">
+        EFL is preparing a community prayer booth in the Dallas–Plano area. Launching in November,
+        volunteers will be available to pray with and for those they meet, offer encouragement, and share
+        the gospel. Watch for dates and locations soon.
+      </div>
+
+    
+
+      <!-- Photos (baseline gap removed) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:12px auto 0 auto;max-width:560px;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+        <tr>
+          <td class="stack" width="33.33%" align="center" valign="top" style="padding:6px;font-size:0;line-height:0;mso-line-height-rule:exactly;">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/dd9db957-6bfb-e5f6-7de1-d5026454ef65.png" width="180" alt="HCIPFY Shirt – Front" style="display:block;border:0;width:100%;max-width:180px;height:auto;margin:0;">
+          </td>
+          <td class="stack" width="33.33%" align="center" valign="top" style="padding:6px;font-size:0;line-height:0;mso-line-height-rule:exactly;">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/3c0e8f87-d042-94c2-71c3-f88c3353a067.png" width="180" alt="HCIPFY Banner" style="display:block;border:0;width:100%;max-width:180px;height:auto;margin:0;">
+          </td>
+        </tr>
+      </table>
+
+
+  <!-- CTA -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:10px auto 0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="mailto:info@eflmen.com?subject=HCIPFY%20Volunteer%20Opportunities"
+            style="height:36px;v-text-anchor:middle;width:220px;" arcsize="10%" strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              LEARN MORE / VOLUNTEER
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <a href="mailto:info@eflmen.com?subject=HCIPFY%20Volunteer%20Opportunities" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:220px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            LEARN MORE / VOLUNTEER
+          </a>
+        </td></tr>
+      </table>
+
+
+<!-- FEATURED: Kingdom Business Spotlight -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;background:#ffffff;">
+  <tr>
+    <td style="padding:14px 14px 16px 12px;background:#ffffff;">
+
+      <!-- Top Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Spacer -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td height="12" style="font-size:0;line-height:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Section Label -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#999999;text-align:center;letter-spacing:2px;text-transform:uppercase;margin:0 0 6px 0;">
+        Kingdom Business Spotlight
+      </div>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;text-align:center;margin:0 0 4px 0;">
+        Partners in Faith &amp; Business
+      </div>
+
+      <!-- Subtitle -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#777777;text-align:center;margin:0 0 16px 0;line-height:1.6;">
+        Businesses we trust, recommend, and are proud to stand beside.
+      </div>
+
+      <!-- 3-Column Card Grid -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="max-width:560px;margin:0 auto;border-collapse:collapse;">
+        <tr>
+
+          <!-- Card 1: Hershenberg Group -->
+          <td class="stack" width="33.33%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;border-radius:6px;">
+              <tr>
+                <td style="padding:14px 10px;text-align:center;">
+                  <!-- Replace with hosted logo URL -->
+                  <img src="YOUR_HERSHENBERG_LOGO_URL" alt="Hershenberg Group" width="100" style="display:block;width:100%;max-width:100px;height:auto;border:0;margin:0 auto 8px auto;" onerror="this.style.display='none'">
+                  <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px 0;">
+                    Hershenberg Group
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#999999;letter-spacing:1px;text-transform:uppercase;margin:0 0 8px 0;">
+                    Luxury Real Estate
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;line-height:1.6;margin:0 0 10px 0;text-align:left;">
+                    Texas's largest Real Broker Luxury team with 25 members across DFW, specializing in luxury residential, commercial, and land development.
+                  </div>
+                  <a href="https://www.hershenberggroup.com/" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:4px;color:#d32f2f;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:30px;text-align:center;text-decoration:none;width:100%;letter-spacing:.5px;">
+                    VISIT WEBSITE
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Card 2: Thornhill Catering -->
+          <td class="stack" width="33.33%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;border-radius:6px;">
+              <tr>
+                <td style="padding:14px 10px;text-align:center;">
+                  <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/a8a7056e-ae2a-23ce-a678-2f3ddf2416d6.png" alt="Thornhill Catering" width="100" style="display:block;width:100%;max-width:100px;height:auto;border:0;margin:0 auto 8px auto;">
+                  <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px 0;">
+                    Thornhill Catering
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#999999;letter-spacing:1px;text-transform:uppercase;margin:0 0 8px 0;">
+                    Full-Service Catering
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;line-height:1.6;margin:0 0 10px 0;text-align:left;">
+                    Serving Dallas for 30+ years with flexible, affordable full-service catering for any occasion — from office lunches to elegant galas.
+                  </div>
+                  <a href="https://www.thornhillcatering.com/" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:4px;color:#d32f2f;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:30px;text-align:center;text-decoration:none;width:100%;letter-spacing:.5px;">
+                    VISIT WEBSITE
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+          <!-- Card 3: The Vant Group -->
+          <td class="stack" width="33.33%" valign="top" style="padding:6px 8px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid #e6e6e6;border-radius:6px;">
+              <tr>
+                <td style="padding:14px 10px;text-align:center;">
+                  <!-- Replace with hosted Vant Group logo URL -->
+                  <img src="YOUR_VANT_GROUP_LOGO_URL" alt="The Vant Group" width="100" style="display:block;width:100%;max-width:100px;height:auto;border:0;margin:0 auto 8px auto;" onerror="this.style.display='none'">
+                  <div style="font-family:Georgia,serif;font-size:14px;color:#2a2a2a;font-weight:bold;margin:0 0 4px 0;">
+                    The Vant Group
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#999999;letter-spacing:1px;text-transform:uppercase;margin:0 0 8px 0;">
+                    M&amp;A Advisory
+                  </div>
+                  <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;line-height:1.6;margin:0 0 10px 0;text-align:left;">
+                    A nationally recognized M&amp;A advisory firm with 26+ years of experience helping businesses with revenues up to $250M expand or exit with confidence.
+                  </div>
+                  <a href="https://www.thevantgroup.com/" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:4px;color:#d32f2f;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:30px;text-align:center;text-decoration:none;width:100%;letter-spacing:.5px;">
+                    VISIT WEBSITE
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+
+        </tr>
+      </table>
+
+      <!-- Footer Note -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;color:#aaaaaa;text-align:center;margin:14px 0 0 0;letter-spacing:0.5px;">
+        Businesses that put faith at the center of everything they do.
+      </div>
+
+    </td>
+  </tr>
+</table>
+<!-- BIRTHDAYS (two-column, date→name) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:0;">
+
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;
+           border-top:1px solid #000000;border-bottom:1px solid #e6e6e6;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 10px;">
+        March Birthdays
+      </div>
+
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:0 auto;">
+        <tr>
+
+          <!-- Left column -->
+          <td class="stack" width="50%" valign="top" align="left" style="padding:0 12px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+
+              <tr>
+                <td width="64" align="right" style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777;padding:8px 8px 8px 0;border-top:1px solid #eee;">
+                  Mar&nbsp;5
+                </td>
+                <td style="padding:8px 0 8px 8px;border-top:1px solid #eee;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;">
+                    Warren Hogan
+                  </div>
+                </td>
+              </tr>
+
+              <tr>
+                <td align="right" style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777;padding:8px 8px 8px 0;border-top:1px solid #eee;">
+                  Mar&nbsp;8
+                </td>
+                <td style="padding:8px 0 8px 8px;border-top:1px solid #eee;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;">
+                    Tom Clifford
+                  </div>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+
+          <!-- Right column -->
+          <td class="stack" width="50%" valign="top" align="left" style="padding:0 12px;">
+            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;">
+
+              <tr>
+                <td align="right" style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777;padding:8px 8px 8px 0;border-top:1px solid #eee;">
+                  Mar&nbsp;14
+                </td>
+                <td style="padding:8px 0 8px 8px;border-top:1px solid #eee;">
+                  <div style="font-family:Georgia,serif;font-size:15px;color:#2a2a2a;font-weight:bold;">
+                    Neil Riddick
+                  </div>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+
+<!-- FEATURED: Join the EFL WhatsApp (matches Featured blocks styling) -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;border-top:1px solid #000000;">
+
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 6px;">
+        Join the Equipped For Life WhatsApp
+      </div>
+
+      <div style="max-width:520px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;">
+        Stay up to date with fasts, events, Bible studies, and daily encouragement. The best way to join is to
+        text Alex at <a href="tel:+19727422220" style="color:#d32f2f;text-decoration:none;font-weight:bold;">(972) 742-2220</a>
+        or click the link below.
+      </div>
+
+      <!-- CTA button -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:10px auto 0 auto;">
+        <tr><td align="center">
+          <!--[if mso]>
+          <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+            href="https://chat.whatsapp.com/KiApzGe9lHc1Sog7dRlhDv"
+            style="height:36px;v-text-anchor:middle;width:220px;" arcsize="10%"
+            strokecolor="#d32f2f" fillcolor="#ffffff">
+            <w:anchorlock/>
+            <center style="color:#d32f2f;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:.3px;">
+              JOIN WHATSAPP GROUP
+            </center>
+          </v:roundrect>
+          <![endif]-->
+          <!--[if !mso]><!-- -->
+          <a href="https://chat.whatsapp.com/KiApzGe9lHc1Sog7dRlhDv" target="_blank" style="background:#ffffff;border:1px solid #d32f2f;border-radius:6px;color:#d32f2f;display:inline-block;
+                    font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:36px;text-align:center;
+                    text-decoration:none;width:220px;-webkit-text-size-adjust:none;mso-hide:all;letter-spacing:.3px;">
+            JOIN WHATSAPP GROUP
+          </a>
+          <!--<![endif]-->
+        </td></tr>
+      </table>
+
+      <!-- Optional: show link as fallback for email clients -->
+      <div style="max-width:520px;margin:10px auto 0 auto;font-family:Arial,Helvetica,sans-serif;
+                  font-size:12px;color:#777;line-height:1.5;">
+        If the button doesn’t work, copy and paste this link:<br>
+        <a href="https://chat.whatsapp.com/KiApzGe9lHc1Sog7dRlhDv" target="_blank" style="color:#d32f2f;text-decoration:underline;">
+          https://chat.whatsapp.com/KiApzGe9lHc1Sog7dRlhDv
+        </a>
+      </div>
+
+      <div style="height:12px;line-height:12px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+            <!-- VERSE OF THE WEEK -->
+             
+           </td></tr><tr>
+              <td bgcolor="#f8f8f8" style="padding:26px 22px;text-align:center;background:#f8f8f8;border-top:3.5px solid #000000;border-bottom:3.5px solid #000000;">
+                <h2 style="margin:0 0 12px 0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">VERSE OF THE WEEK</h2>
+                <p style="font-size:16px;font-style:italic;color:#4a4a4a;margin:0 0 8px 0;">"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.”</p>
+                <p style="font-weight:bold;color:#2a2a2a;margin:0;">– Joshua 1:9</p>
+              </td>
+            </tr>
+
+            <!-- SECTION I: WHO WE ARE -->
+            <tr>
+              <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td valign="top" width="28" style="padding-right:10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">I</td></tr>
+                      </table>
+                    </td>
+                    <td valign="middle">
+                      <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">WHO WE ARE</h2>
+                    </td>
+                  </tr>
+                </table>
+
+                <p style="margin:14px 0 14px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#2a2a2a;">
+                  <strong>Equipped for Life (EFL)</strong> is a brotherly community of men seeking more of God's goodness through His Word, fellowship, and financial support. Our meetings are encouraging, non-judgmental, Spirit-filled and covered in God's grace.
+                </p>
+
+                <!-- Video callouts (email-safe thumbnails) - SMALLER -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:10px;">
+                  <tr>
+                    <td align="center" style="padding:10px 0;">
+                      <a href="https://www.youtube.com/watch?v=247v_Av2YW4" target="_blank" style="text-decoration:none;">
+                        <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/58d0e600-d1e9-09c3-5b05-323052724de7.jpg" width="420" alt="EFL Overview Video" border="0" style="display:block;border:0;width:100%;max-width:420px;height:auto;">
+                      </a>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;margin-top:8px;">
+                        <a href="https://www.youtube.com/watch?v=247v_Av2YW4" target="_blank" style="color:#d32f2f;text-decoration:none;font-weight:bold;">Watch EFL Overview Video on YouTube</a>
+                      </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" style="padding:10px 0;">
+                      <a href="https://youtu.be/Y7e0W02GifU" target="_blank" style="text-decoration:none;">
+                        <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/fbbf101a-f5a0-1519-1ef8-c2750cd86300.jpg" width="420" alt="Immigration Discussion" border="0" style="display:block;border:0;width:100%;max-width:420px;height:auto;">
+                      </a>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;margin-top:8px;">
+                        <a href="https://youtu.be/R1X_0ph6SXY" target="_blank" style="color:#d32f2f;text-decoration:none;font-weight:bold;">Watch EFL's Video on the Christian Revolution in Iran</a>
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+<!-- Spacer: 16px -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td style="height:16px; line-height:16px; font-size:0; mso-line-height-rule:exactly;">&nbsp;</td>
+  </tr>
+</table>
+
+                <!-- Three pillars (3 columns) - text-only headings -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:14px;border:1px solid #d0d0d0;">
+                  <tr>
+                    <td class="stack" width="33.33%" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-weight:bold;color:#2a2a2a;margin-bottom:6px;">CONTENT</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;color:#4a4a4a;font-size:14px;">Bible Studies, Discipleship Groups, Podcast, YouTube Channel</div>
+                    </td>
+                    <td class="stack" width="33.33%" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-weight:bold;color:#2a2a2a;margin-bottom:6px;">CONNECTION</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;color:#4a4a4a;font-size:14px;">Retreats, Evangelism, Mission Trips, Family Events, Brotherhood Gatherings</div>
+                    </td>
+                    <td class="stack" width="33.33%" valign="top" style="padding:16px;">
+                      <div style="font-family:Georgia,serif;font-weight:bold;color:#2a2a2a;margin-bottom:6px;">CHARITY</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;color:#4a4a4a;font-size:14px;">Benevolence Fund – Safety Net Fund, Loans & Gifts for Brothers in Need</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- SECTION II: BATTLE STATIONS -->
+            <tr>
+              <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td valign="top" width="28" style="padding-right:10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">II</td></tr>
+                      </table>
+                    </td>
+                    <td valign="middle">
+                      <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">BATTLE STATIONS - BIBLE STUDIES</h2>
+                    </td>
+                  </tr>
+                </table>    
+<!-- Schedule (2 columns x 3 rows) with two extra boxes duplicating Tuesday & Friday -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #dddddd;">
+  <tr>
+    <td class="stack" width="50%" valign="top" style="padding:12px;border-right:1px solid #dddddd;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">MONDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        5:41PM - 6:41PM<br>Reflections and Scripture Sharing
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">Zoom</div>
+    </td>
+    <td class="stack" width="50%" valign="top" style="padding:12px;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">TUESDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        7:00PM - 9:00PM<br>Evening Study &amp; Fellowship
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">7029 Fullerton Dr., Plano</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="stack" width="50%" valign="top" style="padding:12px;border-top:1px solid #dddddd;border-right:1px solid #dddddd;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">WEDNESDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        12:00PM - 1:30PM<br>Afternoon Brotherhood Gathering
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">17766 Preston Road, Dallas</div>
+    </td>
+    <td class="stack" width="50%" valign="top" style="padding:12px;border-top:1px solid #dddddd;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">THURSDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        7:00PM - 9:00PM<br>Monthly Open Forum and Sharing
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">7029 Fullerton Dr., Plano</div>
+    </td>
+  </tr>
+  <tr>
+    <td class="stack" width="50%" valign="top" style="padding:12px;border-top:1px solid #dddddd;border-right:1px solid #dddddd;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">FRIDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        12:00PM - 1:30PM<br>Afternoon Brotherhood Gathering
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">17766 Preston Rd., Dallas</div>
+    </td>
+    <td class="stack" width="50%" valign="top" style="padding:12px;border-top:1px solid #dddddd;">
+      <div style="font-family:Georgia,serif;font-weight:bold;font-size:16px;color:#2a2a2a;margin-bottom:4px;">SATURDAY</div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;color:#4a4a4a;">
+        9:00AM - 11:00AM<br>Morning Brotherhood Gathering
+      </div>
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#777777;margin-top:6px;">17766 Preston Rd., Dallas</div>
+    </td>
+  </tr>
+</table>
+
+ <!-- Past Teachings button -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:12px auto 14px auto;">
+                  <tr><td align="center">
+                    <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/events/list/" style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#b71c1c" fillcolor="#d32f2f">
+                      <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">BIBLE STUDIES AND EVENTS</center>
+                    </v:roundrect>
+                    <![endif]-->
+                    <a href="https://eflmen.com/events/list/" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">
+                     BIBLE STUDIES AND EVENTS
+                    </a>
+                  </td></tr>
+                </table>
+              
+<!-- CLOSE the padded section cell/row so the divider can be full-width -->
+</td>
+</tr>
+
+<!-- FULL-WIDTH DIVIDER ROW (edge-to-edge across the 600px container) -->
+<tr>
+  <td style="padding:0;background:#ffffff;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+      <tr>
+        <td height="1" style="font-size:0;line-height:0;background:#000000;">&nbsp;</td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+<!-- REOPEN padded section cell/row and continue content -->
+<tr>
+  <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+<!-- Discipleship groups -->
+<!-- Discipleship groups -->
+<div style="margin-top:0;padding:14px;border-left:4px solid #6a6a6a;">
+  <h3 style="margin:0 0 6px 0;font-family:Georgia,serif;font-size:18px;color:#2a2a2a;">
+    <a href="https://kingdomfocuscoaching.com/" target="_blank" style="color:#d32f2f;text-decoration:none;">DISCIPLESHIP GROUPS</a>
+  </h3>
+  <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;margin:0 0 6px 0;">18-Week Discipleship Course (Email Info@eflmen.com To Join)</div>
+  <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;">Small group discipleship opportunities for deeper spiritual growth accountability, and to equipped and encourage you as a believer.</div>
+</div>
+
+
+                <!-- INSERT PHOTO BLOCK HERE (keep inside this <td>) -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:12px 0;border-top:1px solid #e6e6e6;">
+  <tr>
+    <td align="center" style="padding-top:10px;">
+      <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/51506f37-60b3-7bdc-5c85-0b80920104fe.png" width="560" alt="Pray Over Keon" border="0" style="display:block;border:0;width:100%;max-width:560px;height:auto;margin:0 auto;">
+    </td>
+  </tr>
+</table>
+              </td>
+            </tr>
+
+<!-- SECTION III: FAMILY NIGHT -->
+<tr>
+  <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tr>
+        <td valign="top" width="28" style="padding-right:10px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+            <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">III</td></tr>
+          </table>
+        </td>
+        <td valign="middle">
+          <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">FAMILY NIGHT</h2>
+        </td>
+      </tr>
+    </table>
+
+    <div style="margin-top:10px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;">
+      <p style="margin:0 0 6px 0;"><strong>Date &amp; Time:</strong> 4:45PM – 7:00PM, March 28th 2026</p>
+      <p style="margin:0 0 6px 0;"><strong>Location:</strong> <a href="https://maps.google.com/?q=Grace+Presbyterian+Church+4300+W+Park+Blvd+Plano+TX" target="_blank" style="color:#d32f2f;text-decoration:none;">Grace Presbyterian Church, 4300 W Park Blvd, Plano</a></p>
+      <!-- (Removed the RSVP inline text link per request) -->
+      <p style="margin:0;">Join us for an evening of fellowship, food, and family fun.</p>
+
+      <!-- FAMILY NIGHT: Single Photo -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:12px;border-top:1px solid #e6e6e6;">
+        <tr>
+          <td align="center" style="padding-top:10px;">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/1101ebc1-fabe-20dc-99c3-ed343905a7ce.jpeg" width="560" alt="Family Night at Grace Presbyterian" border="0" style="display:block;border:0;width:100%;max-width:560px;height:auto;margin:0 auto;">
+          </td>
+        </tr>
+      </table>
+
+      <!-- Spacer below image -->
+      <div style="height:12px;line-height:12px;font-size:0;">&nbsp;</div>
+
+      <!-- RSVP button under photo (bulletproof) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+                         xmlns:w="urn:schemas-microsoft-com:office:word"
+                         href="https://www.eventbrite.com/e/efl-family-night-praise-prayers-and-dinner-tickets-1502563009409?aff=oddtdtcreator"
+                         style="height:44px;v-text-anchor:middle;width:220px;" arcsize="10%"
+                         strokecolor="#b71c1c" fillcolor="#d32f2f">
+              <w:anchorlock/>
+              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+                RSVP HERE
+              </center>
+            </v:roundrect>
+            <![endif]-->
+            <!--[if !mso]><!-- -->
+            <a href="https://www.eventbrite.com/e/efl-family-night-praise-prayers-and-dinner-tickets-1502563009409?aff=oddtdtcreator" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;text-decoration:none;width:220px;-webkit-text-size-adjust:none;mso-hide:all;">
+              RSVP HERE
+            </a>
+            <!--<![endif]-->
+          </td>
+        </tr>
+      </table>
+
+    </div>
+  </td>
+</tr>
+
+            <!-- SECTION IV: RETREAT OPERATIONS -->
+            <tr>
+              <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td valign="top" width="28" style="padding-right:10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">IV</td></tr>
+                      </table>
+                    </td>
+                    <td valign="middle">
+                      <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">RETREAT OPERATIONS</h2>
+                    </td>
+                  </tr>
+                </table>
+
+                <div style="margin-top:10px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;">
+                  <p style="margin:0 0 8px 0;"><strong>Coming Next Spring Date: April 10-12 2026</strong></p>
+                  <p style="margin:0 0 10px 0;">Next EFL men's retreat at Lone Oak Ranch & Retreat in Gainesville, TX.</p>
+
+                  <p style="margin:10px 0 6px 0;"><strong>Retreat Location:</strong> Lone Oak Ranch & Retreat, Gainesville, TX</p>
+                  <p style="margin:0 0 8px 0;"><strong>Website:</strong> <a href="http://www.loneoakretreat.com" target="_blank" style="color:#d32f2f;text-decoration:none;">www.loneoakretreat.com</a></p>
+
+                  <p style="margin:8px 0 6px 0;"><strong>Retreat Activities:</strong></p>
+
+               <!-- Bullet list (table-based bullets) – compact spacing -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:0 0 12px 0;">
+  <tr>
+    <td valign="top" width="14" style="font-size:16px;line-height:1;padding:0 6px 0 0;">•</td>
+    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;line-height:1.3;mso-line-height-rule:exactly;padding:0;">
+      Worship, Teachings, Discipleship
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="14" style="font-size:16px;line-height:1;padding:0 6px 0 0;">•</td>
+    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;line-height:1.3;mso-line-height-rule:exactly;padding:0;">
+      Basketball, spades, poker, working out
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="14" style="font-size:16px;line-height:1;padding:0 6px 0 0;">•</td>
+    <td valign="top" style="font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;line-height:1.3;mso-line-height-rule:exactly;padding:0;">
+      Beautiful lodging on a ranch and meals provided
+    </td>
+  </tr>
+</table>
+
+    <!-- Title -->
+  <h3 style="margin:0 0 10px 0;font-family:Georgia,serif;font-size:18px;color:#2a2a2a;text-align:center;">
+    EFL Retreat Video
+  </h3>
+
+  <!-- Centered video thumbnail (email-safe) -->
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+    <tr>
+      <td align="center">
+        <a href="https://youtube.com/shorts/djuCS7kgJkI" target="_blank" style="text-decoration:none;border:0;display:inline-block;">
+          <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/42294b54-bdd0-95e5-3e78-30f764b73a79.jpg" width="420" alt="EFL Retreat Video" style="display:block;border:0;width:100%;max-width:420px;height:auto;margin:0 auto;">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Small spacer -->
+  <div style="height:10px;line-height:10px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+
+  <!-- REGISTER button (unchanged) -->
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:10px auto 0 auto;">
+    <tr><td align="center">
+      <!--[if mso]>
+      <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/product/retreat/"
+        style="height:44px;v-text-anchor:middle;width:200px;" arcsize="10%" strokecolor="#b71c1c" fillcolor="#d32f2f">
+        <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">REGISTER NOW</center>
+      </v:roundrect>
+      <![endif]-->
+      <!--[if !mso]><!-- -->
+      <a href="https://eflmen.com/product/retreat/" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;
+                font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;text-decoration:none;
+                width:200px;-webkit-text-size-adjust:none;mso-hide:all;">
+        REGISTER NOW
+      </a>
+      <!--<![endif]-->
+    </td></tr>
+  </table>
+
+
+          <!-- SECTION V: FASTING -->
+</div></td></tr><tr>
+  <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tr>
+        <td valign="top" width="28" style="padding-right:10px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+            <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">V</td></tr>
+          </table>
+        </td>
+        <td valign="middle">
+          <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">FASTING – BEGIN WITH GOD</h2>
+        </td>
+      </tr>
+    </table>
+
+    <!-- Increased line spacing -->
+    <div style="margin-top:10px;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#2a2a2a;line-height:1.4;mso-line-height-rule:exactly;">
+      <p style="margin:0 0 10px 0;">We begin with fasting and prayer—aligning our hearts with His will and creating space for His voice.</p>
+      <p style="margin:0 0 10px 0;"><strong>Join us in corporate fasting February 1st</strong> as we seek God's guidance for our ministry, families, and individual walks. (Text Brandon Ricks To Join)</p>
+      <p style="margin:0;font-style:italic;">"But when you fast, put oil on your head and wash your face... your Father, who sees what is done in secret, will reward you." – Matthew 6:17–18</p>
+    </div>
+  </td>
+</tr>
+
+
+            <!-- SECTION VI: UPCOMING MISSIONS (Movie Nights removed) -->
+         <tr>
+  <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <tr>
+        <td valign="top" width="28" style="padding-right:10px;">
+          <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+            <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">VI</td></tr>
+          </table>
+        </td>
+        <td valign="middle">
+          <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">UPCOMING MISSIONS</h2>
+        </td>
+      </tr>
+    </table>
+
+    <!-- Moved to top: EFL WOMEN'S EDITION -->
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:10px;border:1px solid #d0d0d0;">
+      <tr><td style="padding:14px;">
+        <h3 style="margin:0 0 6px 0;font-family:Georgia,serif;font-size:16px;color:#2a2a2a;">NEW: EFL WOMEN'S EDITION</h3>
+        <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;">New ministry extension to support and empower the women in our EFL families.</p>
+      </td></tr>
+    </table>
+
+  <!-- Backyard Baptisms -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:10px;border:1px solid #d0d0d0;">
+  <tr>
+    <td style="padding:14px;">
+      <h3 style="margin:0 0 6px 0;font-family:Georgia,serif;font-size:16px;color:#2a2a2a;">BACKYARD BAPTISMS</h3>
+      <p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;">
+        Open invitation for men ready to take the next step in their faith.
+      </p>
+
+      <!-- Button: Recent Baptisms -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+              href="https://eflmen.com/category/past-event-blogs/"
+              style="height:40px;v-text-anchor:middle;width:200px;" arcsize="10%"
+              strokecolor="#b71c1c" fillcolor="#d32f2f">
+              <w:anchorlock/>
+              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+                RECENT BAPTISMS
+              </center>
+            </v:roundrect>
+            <![endif]-->
+            <a href="https://eflmen.com/category/past-event-blogs/" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;
+                      font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:40px;text-align:center;
+                      text-decoration:none;width:200px;-webkit-text-size-adjust:none;mso-hide:all;">
+              RECENT BAPTISMS
+            </a>
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+
+    <!-- Financial Blueprint Class -->
+    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:10px;border:1px solid #d0d0d0;">
+      <tr><td style="padding:14px;">
+        <h3 style="margin:0 0 6px 0;font-family:Georgia,serif;font-size:16px;color:#2a2a2a;">FINANCIAL BLUEPRINT CLASS</h3>
+        <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;">Fall 2025 series on biblical stewardship, budgeting, and building generational wealth.</p>
+      </td></tr>
+    </table>
+  </td>
+</tr>
+
+
+            <!-- SECTION VII: BATTALION STRENGTH -->
+            <tr>
+              <td style="padding:24px 22px;background:#ffffff;border-bottom:3.5px solid #000000;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td valign="top" width="28" style="padding-right:10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">VII</td></tr>
+                      </table>
+                    </td>
+                    <td valign="middle">
+                      <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">BATTALION STRENGTH</h2>
+                    </td>
+                  </tr>
+                </table>
+
+                <div style="text-align:center;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#6c757d;margin:6px 0 16px 0;">Up to August 2025</div>
+
+                <!-- Stats 3-up -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #d0d0d0;">
+                  <tr>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-size:28px;font-weight:bold;color:#2a2a2a;line-height:1;">561</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">TOTAL WARRIORS</div>
+                    </td>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-size:28px;font-weight:bold;color:#2a2a2a;line-height:1;">130</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">ACTIVE BROTHERS</div>
+                    </td>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;">
+                      <div style="font-family:Georgia,serif;font-size:28px;font-weight:bold;color:#2a2a2a;line-height:1;">934</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">BIBLE STUDIES HELD</div>
+                    </td>
+                  </tr>
+                </table>
+
+                <h3 style="margin:16px 0 8px 0;font-family:Georgia,serif;font-size:16px;color:#2a2a2a;text-align:center;">BENEVOLENCE FUND IMPACT</h3>
+
+                <!-- Benevolence 3-up -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border:1px solid #d0d0d0;">
+                  <tr>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-size:26px;font-weight:bold;color:#2a2a2a;line-height:1;">$290K</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">TOTAL RAISED</div>
+                    </td>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;border-right:1px solid #d0d0d0;">
+                      <div style="font-family:Georgia,serif;font-size:26px;font-weight:bold;color:#2a2a2a;line-height:1;">80+</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">BROTHERS &amp; MINISTRIES HELPED</div>
+                    </td>
+                    <td class="stack" width="33.33%" align="center" valign="top" style="padding:16px;">
+                      <div style="font-family:Georgia,serif;font-size:26px;font-weight:bold;color:#2a2a2a;line-height:1;">$70K</div>
+                      <div style="font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#4a4a4a;letter-spacing:0.5px;">READY RESERVE</div>
+                    </td>
+                  </tr>
+                </table>
+
+<!-- Benevolence Fund (centered) -->
+<div style="margin-top:12px;text-align:left;">
+  <h3 style="margin:0;font-family:Georgia,serif;font-size:18px;color:#2a2a2a;">
+    SUPPORT THE EFL BENEVOLENCE FUND
+  </h3>
+
+  <!-- Spacer between title and paragraph -->
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+    <tr>
+      <td style="height:14px;line-height:14px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</td>
+    </tr>
+  </table>
+
+  <div style="max-width:560px;margin:0 auto;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.6;color:#2a2a2a;text-align:left;">
+    <p style="margin:0 0 10px 0;">
+      The <strong>EFL Benevolence Fund</strong> exists to extend compassion and restoration to men in moments of real crisis. Through your generosity, we are able to meet immediate needs—providing financial relief, spiritual encouragement, and practical assistance that point directly to the peace and hope found in Christ.
+    </p>
+    <p style="margin:0 0 10px 0;">
+      Each gift becomes more than a contribution—it’s a lifeline that demonstrates the tangible love of God in action. By giving generously and stewarding faithfully, you become part of a story of redemption and renewal. Together, we can lift men out of hardship, restore dignity, and watch God move powerfully in their lives.
+    </p>
+  </div>
+</div>
+
+<!-- Spacer between title and paragraph -->
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+    <tr>
+      <td style="height:14px;line-height:14px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</td>
+    </tr>
+  </table>
+
+
+       <!-- Benevolence: Title above photo + Donate button -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+  <tr>
+    <td align="center" style="padding:6px 0 0 0;">
+
+      <!-- Title (moved above the image) -->
+      <h3 style="margin:0 0 10px 0;font-family:Georgia,serif;font-size:18px;color:#2a2a2a;text-align:center;">
+        Hope Restored: How EFL Is Changing Lives Through Faith
+      </h3>
+
+      <!-- Video thumbnail -->
+      <a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" target="_blank" style="text-decoration:none;">
+        <img src="https://img.youtube.com/vi/ltxjz0IY_E0/hqdefault.jpg" width="420" alt="Benevolence Fund Video" border="0" style="display:block;border:0;width:100%;max-width:420px;height:auto;">
+      </a>
+
+      <!-- Spacer -->
+      <div style="height:12px;line-height:12px;font-size:0;mso-line-height-rule:exactly;">&nbsp;</div>
+
+      <!-- CLICK HERE TO DONATE button (bulletproof) -->
+      <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+        <tr>
+          <td align="center">
+            <!--[if mso]>
+            <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml"
+                         xmlns:w="urn:schemas-microsoft-com:office:word"
+                         href="https://eflmen.com/give/"
+                         style="height:44px;v-text-anchor:middle;width:220px;"
+                         arcsize="10%" strokecolor="#b71c1c" fillcolor="#d32f2f">
+              <w:anchorlock/>
+              <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">
+                CLICK HERE TO DONATE
+              </center>
+            </v:roundrect>
+            <![endif]-->
+            <!--[if !mso]><!-- -->
+            <a href="https://eflmen.com/give/" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;text-decoration:none;width:220px;-webkit-text-size-adjust:none;mso-hide:all;">
+              CLICK HERE TO DONATE
+            </a>
+            <!--<![endif]-->
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+            <!-- SECTION VIII: BATTLE GEAR: OFFICIAL EFL MERCH -->
+            </td></tr><tr>
+              <td style="padding:24px 22px;background:#ffffff;border-bottom:1px solid #e0e0e0;">
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td valign="top" width="28" style="padding-right:10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                        <tr><td align="center" style="background:#6a6a6a;color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:bold;padding:6px 8px;border-radius:3px;">VIII</td></tr>
+                      </table>
+                    </td>
+                    <td valign="middle">
+                      <h2 style="margin:0;font-family:Georgia,serif;font-size:20px;color:#2a2a2a;">BATTLE GEAR: OFFICIAL EFL MERCH</h2>
+                    </td>
+                  </tr>
+                </table>
+
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:10px;border:1px solid #d0d0d0;">
+                  <tr><td style="padding:14px;">
+                    <h3 style="margin:0 0 8px 0;font-family:Georgia,serif;font-size:16px;color:#2a2a2a;">VISIT EFL STORE</h3>
+                    <p style="margin:0 0 10px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;"><em>Wear the Mission. Share the Message. Live the Brotherhood.</em></p>
+                    <p style="margin:0 0 12px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#4a4a4a;">Show your faith in style with the official Equipped For Life (EFL) merchandise line. Designed with purpose, our apparel combines comfort, simplicity, and a message of evangelism that speaks without words. Whether you’re wearing one of our shirts or topping off your look with an EFL hat, each piece reflects your commitment to walking boldly in faith. Our store is now open with T-shirts ready to ship—hoodies and hats launching soon. You’ll also find a curated selection of inspiring books and other EFL gear. Every purchase helps fuel the mission, supporting outreach, retreats, and discipleship that impact lives and strengthen communities.</p>
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+                      <tr><td align="center">
+                        <!--[if mso]>
+                        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" href="https://eflmen.com/store" style="height:44px;v-text-anchor:middle;width:320px;" arcsize="10%" strokecolor="#b71c1c" fillcolor="#d32f2f">
+                          <w:anchorlock/><center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;">SHOP THE STORE: EFLMEN.COM/STORE</center>
+                        </v:roundrect>
+                        <![endif]-->
+                        <a href="https://eflmen.com/store" target="_blank" style="background:#d32f2f;border:1px solid #b71c1c;border-radius:6px;color:#ffffff;display:inline-block;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:44px;text-align:center;text-decoration:none;width:320px;-webkit-text-size-adjust:none;mso-hide:all;">
+                          SHOP THE STORE: EFLMEN.COM/STORE
+                        </a>
+                      </td></tr>
+                    </table>
+                    <!-- ↓ Place this directly AFTER the button table and BEFORE the closing </td></tr> of the inner box -->
+<!-- Spacer -->
+<div style="height:14px;line-height:14px;font-size:0;">&nbsp;</div>
+
+<!-- Merch promo image (clickable) -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+  <tr>
+    <td align="center">
+      <a href="https://eflmen.com/store" target="_blank" style="text-decoration:none;border:0;">
+        <!-- Replace the src with your final image URL -->
+        <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/70544864-8b79-4a6f-d338-bb86013859c7.jpeg" width="560" alt="Explore official EFL merch in the store" border="0" style="display:block;border:0;width:100%;max-width:560px;height:auto;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+                  </td></tr>
+                </table>
+                <!-- Thornhill Catering Sponsor -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse;margin:12px 0;">
+  <tr>
+    <td align="center" style="padding:14px 14px 12px 12px;text-align:center;">
+
+      <!-- Section Divider -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:560px;margin:0 auto 12px auto;border-collapse:collapse;">
+        <tr>
+          <td style="border-top:1px solid #000000;height:0;line-height:0;font-size:0;">&nbsp;</td>
+        </tr>
+      </table>
+
+      <!-- Title -->
+      <div style="font-family:Georgia,serif;font-size:16px;color:#2a2a2a;font-weight:bold;margin:0 0 10px;">
+        Thornhill Catering 
+      </div>
+
+      <!-- Logo -->
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:200px;margin:0 auto 12px auto;">
+        <tr>
+          <td align="center">
+            <img src="https://mcusercontent.com/4c57091bf25d401d85fe2b8ef/images/a8a7056e-ae2a-23ce-a678-2f3ddf2416d6.png" alt="Thornhill Catering" width="200" style="display:block;width:100%;max-width:200px;height:auto;border:0;">
+          </td>
+        </tr>
+      </table>
+
+      <!-- Description -->
+      <div style="max-width:520px;margin:0 auto;
+                  font-family:Arial,Helvetica,sans-serif;
+                  font-size:14px;color:#4a4a4a;line-height:1.6;text-align:left;">
+
+        <p style="margin:0 0 10px 0;">
+          Thornhill Catering has proudly served the Dallas community for more than 30 years,
+          providing full-service catering that is flexible, affordable, and centered on creating
+          an unforgettable client experience. From small office lunches to elegant black-tie galas,
+          Thornhill specializes in corporate and event catering for any occasion.
+        </p>
+
+        <p style="margin:0 0 10px 0;">
+          Their customized menus feature Mexican, Italian, and American cuisine along with
+          breakfast selections, box lunches, hot meals, appetizers, and desserts. Thornhill is
+          known for delivering exceptional service and high-quality food while giving personal
+          attention to every event.
+        </p>
+
+        <p style="margin:0;">
+          Thornhill also takes pride in supporting charitable causes throughout the community,
+          reflecting their commitment to serving others both through their business and beyond.
+        </p>
+
+      </div>
+
+      <!-- Website -->
+      <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;margin-top:12px;">
+        Visit their website:
+        <a href="https://www.thornhillcatering.com/" target="_blank" style="color:#d32f2f;text-decoration:none;font-weight:bold;">
+          www.thornhillcatering.com
+        </a>
+      </div>
+
+    </td>
+  </tr>
+</table>
+            </td></tr>
+            
+
+            <!-- FOOTER: COMMAND CENTER -->
+            <tr>
+              <td bgcolor="#2a2a2a" style="padding:22px;background:#2a2a2a;border-top:1px solid #444444;">
+                <h2 style="margin:0 0 6px 0;font-family:Georgia,serif;font-size:20px;color:#ffffff;text-align:center;">STAY IN FORMATION</h2>
+                <h3 style="margin:0 0 16px 0;font-family:Georgia,serif;font-size:16px;color:#e0e0e0;text-align:center;">COMMAND CENTER</h3>
+
+                <!-- Footer grid as 2 columns x 2 rows -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%">
+                  <tr>
+                    <td class="stack" width="50%" valign="top" style="padding:8px 10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#3a3a3a;border:1px solid #555555;">
+                        <tr><td style="padding:12px;">
+                          <h4 style="margin:0 0 8px 0;font-family:Georgia,serif;font-size:14px;color:#ffffff;border-bottom:1px solid #666;padding-bottom:6px;">VIDEOS</h4>
+                          <p style="margin:0 0 6px 0;"><a href="https://www.youtube.com/watch?v=247v_Av2YW4" target="_blank" style="color:#cccccc;text-decoration:none;">EFL Overview Video</a></p>
+                          <p style="margin:0;"><a href="https://www.youtube.com/watch?v=ltxjz0IY_E0" target="_blank" style="color:#cccccc;text-decoration:none;">Benevolence Fund Video</a></p>
+                        </td></tr>
+                      </table>
+                    </td>
+                    <td class="stack" width="50%" valign="top" style="padding:8px 10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#3a3a3a;border:1px solid #555555;">
+                        <tr><td style="padding:12px;">
+                          <h4 style="margin:0 0 8px 0;font-family:Georgia,serif;font-size:14px;color:#ffffff;border-bottom:1px solid #666;padding-bottom:6px;">PODCAST</h4>
+                          <p style="margin:0 0 6px 0;"><a href="https://eflmen.com/podcast/" target="_blank" style="color:#cccccc;text-decoration:none;">Equipped for Life Podcast</a></p>
+                          <p style="margin:0 0 6px 0;"><a href="https://podcasts.apple.com/us/podcast/equipped-for-life/id123456789" target="_blank" style="color:#cccccc;text-decoration:none;">Apple Podcasts</a></p>
+                          <p style="margin:0;"><a href="https://open.spotify.com/show/123456789" target="_blank" style="color:#cccccc;text-decoration:none;">Spotify</a></p>
+                        </td></tr>
+                      </table>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td class="stack" width="50%" valign="top" style="padding:8px 10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#3a3a3a;border:1px solid #555555;">
+                        <tr><td style="padding:12px;">
+                          <h4 style="margin:0 0 8px 0;font-family:Georgia,serif;font-size:14px;color:#ffffff;border-bottom:1px solid #666;padding-bottom:6px;">CONNECT</h4>
+                          <p style="margin:0 0 6px 0;"><a href="https://www.facebook.com/eflmen" target="_blank" style="color:#cccccc;text-decoration:none;">Facebook</a></p>
+                          <p style="margin:0;"><a href="https://chat.whatsapp.com/eflbrotherhood" target="_blank" style="color:#cccccc;text-decoration:none;">WhatsApp Group</a></p>
+                        </td></tr>
+                      </table>
+                    </td>
+                    <td class="stack" width="50%" valign="top" style="padding:8px 10px;">
+                      <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#3a3a3a;border:1px solid #555555;">
+                        <tr><td style="padding:12px;">
+                          <h4 style="margin:0 0 8px 0;font-family:Georgia,serif;font-size:14px;color:#ffffff;border-bottom:1px solid #666;padding-bottom:6px;">CONTENT</h4>
+                          <p style="margin:0 0 6px 0;"><a href="https://eflmen.com/resources/" target="_blank" style="color:#cccccc;text-decoration:none;">EFL Resources</a></p>
+                          <p style="margin:0;"><a href="https://thevantgroup-my.sharepoint.com/personal/alex_thevantgroup_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Falex%5Fthevantgroup%5Fcom%2FDocuments%2FMinistry%2FBible%20Study%20Teachings&ga=1" target="_blank" style="color:#cccccc;text-decoration:none;">Bible Study Teachings</a></p>
+                        </td></tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+
+                <!-- Contact strip -->
+                <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin-top:12px;background:#1a1a1a;border:1px solid #444;" bgcolor="#1a1a1a">
+                  <tr><td style="padding:14px;text-align:center;">
+                    <p style="margin:0 0 6px 0;font-family:Arial,Helvetica,sans-serif;font-size:14px;color:#cccccc;">
+                      <strong>Website:</strong> <a href="https://eflmen.com" target="_blank" style="color:#ffffff;text-decoration:none;">eflmen.com</a> &nbsp;|&nbsp;
+                      <strong>Email:</strong> <a href="mailto:info@eflmen.com" style="color:#ffffff;text-decoration:none;">info@eflmen.com</a> &nbsp;|&nbsp;
+                      <strong>Phone:</strong> <a href="tel:+19727422220" style="color:#ffffff;text-decoration:none;">(972) 742-2220</a>
+                    </p>
+                    <p style="margin:6px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;color:#bbbbbb;">
+                      Equipped for Life Men's Ministry – <a href="https://eflmen.com" target="_blank" style="color:#ffffff;text-decoration:none;">https://eflmen.com</a>
+                    </p>
+                  </td></tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- COMPLIANCE FOOTER -->
+            <tr>
+              <td bgcolor="#0f1116" style="padding:18px;background:#0f1116;text-align:center;">
+                <p style="margin:0 0 8px 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#c9ced6;">You’re receiving this email because you opted in at our website.</p>
+                <p style="margin:0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;">
+                  <a href="*|UPDATE_PROFILE|*" style="color:#e5e7eb;text-decoration:underline;">Update preferences</a> ·
+                  <a href="*|UNSUB|*" style="color:#e5e7eb;text-decoration:underline;">Unsubscribe</a>
+                </p>
+                <p style="margin:8px 0 0 0;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:1.6;color:#c9ced6;">*|HTML:LIST_ADDRESS_HTML|*</p>
+              </td>
+            </tr>
+          </table>
+          <!-- /Outer container -->
+        
+      
+    </td></tr></table></center></body></html>
